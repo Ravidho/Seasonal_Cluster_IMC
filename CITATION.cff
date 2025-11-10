@@ -5,8 +5,7 @@ authors:
   given-names: Ravidho
 orcid: https://orcid.org/0000-0002-6879-2564
 title:Seasonal Rainfall Cluster over the Indonesian Maritime Continent Based on IMERG V07B
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.17570887
 version: 0.1.1
+doi: 10.5281/zenodo.17570887
 date-released: 2025-11-10
+url: "https://github.com/Ravidho/Seasonal_Cluster_IMC"
